@@ -5,12 +5,39 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://example.com/post/post1/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post1/</guid>
+      <description>&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
+&lt;p&gt;Понедельник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать&lt;/p&gt;
+&lt;p&gt;Вторник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать.&lt;/p&gt;
+&lt;p&gt;Среда: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Четверг: Проснулся, приехал в вуз на 5 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Пятница: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Суббота: Отдых&lt;/p&gt;
+&lt;p&gt;Воскресенье: Делал лабораторные&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
+&lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
@@ -243,7 +270,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-158392746&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-789415632&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-158392746&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-789415632&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
