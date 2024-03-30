@@ -2,21 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>http://localhost:1313/category/demo/</link>
-      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/category/demo/</link>
+      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>http://localhost:1313/category/demo/</link>
+      <link>https://example.com/category/demo/</link>
     </image>
     
     <item>
-      <title>Моя неделя</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <title>Моя прошедшая неделя</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
+&lt;p&gt;Понедельник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать&lt;/p&gt;
+&lt;p&gt;Вторник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать.&lt;/p&gt;
+&lt;p&gt;Среда: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Четверг: Проснулся, приехал в вуз на 5 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Пятница: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Суббота: Отдых&lt;/p&gt;
+&lt;p&gt;Воскресенье: Делал лабораторные&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/post3/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>https://example.com/post/post3/</guid>
+      <description>&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown, или маркдаун, — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере.&lt;/p&gt;
+&lt;p&gt;Маркдаун создал писатель и блогер Джон Грубер вместе с веб-активистом Аароном Шварцем. Они хотели придумать максимально простой и удобный язык разметки, с помощью которого текст можно перевести в красиво оформленный вид. При этом текст обязан оставаться читаемым даже без приведения к «красивому» виду. Таким и оказался Markdown. Его создали в 2004 году, но наибольшую популярность язык получил сейчас. Его поддерживают разнообразные платформы для блогов, сервисы создания заметок, CMS и даже мессенджеры. Поэтому маркдаун полезно знать всем, кто имеет дело с вебом, от разработчиков до блогеров.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://example.com/post/post1/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post1/</guid>
       <description>&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
 &lt;p&gt;Понедельник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать&lt;/p&gt;
 &lt;p&gt;Вторник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать.&lt;/p&gt;
@@ -30,9 +57,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>http://localhost:1313/post/post2/</link>
+      <link>https://example.com/post/post2/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post2/</guid>
+      <guid>https://example.com/post/post2/</guid>
       <description>&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -41,9 +68,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
