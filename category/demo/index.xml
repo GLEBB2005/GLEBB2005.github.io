@@ -5,12 +5,28 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://example.com/post/post5/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post5/</guid>
+      <description>&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
+&lt;p&gt;Понедельник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать&lt;/p&gt;
+&lt;p&gt;Вторник: Проснулся, послушал онлайн лекции, поел, сделал домашнее задание, поел, лег спать.&lt;/p&gt;
+&lt;p&gt;Среда: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Четверг: Проснулся, приехал в вуз на 5 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Пятница: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
+&lt;p&gt;Суббота: Отдых&lt;/p&gt;
+&lt;p&gt;Воскресенье: Делал лабораторные&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя прошедшая неделя</title>
@@ -52,6 +68,29 @@
 &lt;p&gt;Пятница: Проснулся, приехал в вуз на 4 пары, приехал домой, лег спать&lt;/p&gt;
 &lt;p&gt;Суббота: Отдых&lt;/p&gt;
 &lt;p&gt;Воскресенье: Делал лабораторные&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с библиографией</title>
+      <link>https://example.com/post/post6/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post6/</guid>
+      <description>&lt;h2 id=&#34;библиография&#34;&gt;Библиография&lt;/h2&gt;
+&lt;p&gt;Работа с библиографией&lt;/p&gt;
+&lt;p&gt;Библиография - это список источников, использованных в исследовательской работе. Она позволяет читателям найти и проверить информацию, на которую вы ссылаетесь, и дает должное признание авторам, чьи идеи вы использовали.&lt;/p&gt;
+&lt;p&gt;Зачем нужна библиография?&lt;/p&gt;
+&lt;p&gt;Позволяет читателям проверить ваши утверждения и найти дополнительную информацию.
+Демонстрирует, что вы провели исследование и использовали надежные источники.
+Избегает плагиата, признавая работу других авторов.
+Улучшает авторитет и достоверность вашей работы.
+Как составить библиографию&lt;/p&gt;
+&lt;p&gt;Существует несколько различных стилей библиографии, каждый из которых имеет свои собственные правила форматирования. Наиболее распространенными стилями являются:&lt;/p&gt;
+&lt;p&gt;MLA (Ассоциация современного языка)
+APA (Американская психологическая ассоциация)
+Чикаго
+Гарвард
+Выберите стиль, который требуется для вашей конкретной исследовательской работы или публикации. Затем следуйте руководящим принципам стиля, чтобы правильно форматировать свои цитаты.&lt;/p&gt;
 </description>
     </item>
     
